@@ -10,13 +10,13 @@
  ♦️ Python <br>
  ♦️ Javascript <br>
 
- and FrameWorks such as :
- ♦️ Django
- ♦️ Ionic
+ and FrameWorks such as : <br>
+ ♦️ Django <br>
+ ♦️ Ionic <br>
 
 ## Hobbies
 
  I love playing and learning chess. Here is my chess.com profile for you to challenge me to a game.
 
- indiapaleale1
+ [Chess.com profile](https://www.chess.com/member/indiapaleale1/).
 
