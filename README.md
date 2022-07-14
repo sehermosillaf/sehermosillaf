@@ -10,7 +10,7 @@
  ♦️ Python <br>
  ♦️ Javascript <br>
 
- and FrameWorks such as : <br>
+ and Frameworks such as : <br>
  ♦️ Django <br>
  ♦️ Ionic <br>
 
