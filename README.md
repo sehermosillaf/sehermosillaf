@@ -5,10 +5,10 @@
 
 ## Skills
 
- have worked with languages such as :
- ♦️ Java 
- ♦️ Python
- ♦️ Javascript
+ have worked with languages such as : <br>
+ ♦️ Java <br>
+ ♦️ Python <br>
+ ♦️ Javascript <br>
 
  and FrameWorks such as :
  ♦️ Django
