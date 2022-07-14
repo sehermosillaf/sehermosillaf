@@ -1,4 +1,7 @@
 ## Hello 👋
+ ![gifpeepowave](https://user-images.githubusercontent.com/87145545/179099474-0bfd1f64-0bab-4fb4-a16a-deb42e548146.gif)
+
+ 
  
  ### I'm Sebastian Hermosilla and I'm almost a software engineer.
 
