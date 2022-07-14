@@ -1,5 +1,5 @@
 ## Hello 👋
- My name is Sebastian, I'm from Chile and I'm a software developer.
+ I'm sebastian hermosilla and I'm almost a computer engineer.
 
  ⭐Currently doing my internship at ACL as a developer.
 
