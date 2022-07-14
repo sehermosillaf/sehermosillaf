@@ -1,5 +1,5 @@
 ## Hello 👋
- I'm sebastian hermosilla and I'm almost a computer engineer.
+ I'm sebastian hermosilla and I'm almost a software engineer.
 
  ⭐Currently doing my internship at ACL as a developer.
 
@@ -18,6 +18,6 @@
 
  I love playing and learning chess. here are my profiles of the most used websites.
 
- [Chess.com profile](https://www.chess.com/member/indiapaleale1/).
+ [Chess.com profile](https://www.chess.com/member/indiapaleale1/). <br>
  [Lichess profile](https://lichess.org/@/shopelier1/).
 
