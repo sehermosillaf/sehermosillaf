@@ -17,7 +17,7 @@
 
 ## Hobbies
 
- I love playing and learning chess. here are my profiles of the most used websites.
+ I love playing and learning chess. These are my profiles where I play chess.
 
  [Chess.com profile](https://www.chess.com/member/indiapaleale1/). <br>
  [Lichess profile](https://lichess.org/@/shopelier1/).
