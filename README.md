@@ -6,10 +6,9 @@
 ## Skills
 
  have worked with languages such as :
- ♦️ Java
+ ♦️ Java 
  ♦️ Python
  ♦️ Javascript
- ♦️ HTML CSS
 
  and FrameWorks such as :
  ♦️ Django
