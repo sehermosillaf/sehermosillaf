@@ -1,7 +1,8 @@
 ## Hello 👋
- I'm sebastian hermosilla and I'm almost a software engineer.
+ 
+ ### I'm sebastian hermosilla and I'm almost a software engineer.
 
- ⭐Currently doing my internship at ACL as a developer.
+ ⭐ Currently doing my internship at ACL as a developer.
 
 ## Skills
 
