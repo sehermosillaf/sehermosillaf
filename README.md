@@ -20,6 +20,6 @@
 
  I love playing and learning chess. These are my profiles where I play.
 
- [Chess.com profile](https://www.chess.com/member/indiapaleale1/). <br>
+ [Chess.com profile](https://www.chess.com/member/shop3/). <br>
  [Lichess profile](https://lichess.org/@/shopelier1/).
 
