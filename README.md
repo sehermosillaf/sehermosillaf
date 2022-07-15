@@ -8,13 +8,13 @@
 ## Skills
 
  have worked with languages such as : <br>
- ♦️ Java <br>
- ♦️ Python <br>
- ♦️ Javascript <br>
+ 🔹 Java <br>
+ 🔹 Python <br>
+ 🔹 Javascript <br>
 
  and Frameworks such as : <br>
- ♦️ Django <br>
- ♦️ Ionic <br>
+ 🔸Django <br>
+ 🔸Ionic <br>
 
 ## Hobbies
 
