@@ -3,7 +3,7 @@
 ## Hello 👋
  ### I'm Sebastian Hermosilla and I'm almost a software engineer.
 
- ⭐ Currently doing my internship at ACL as a QA Analyst.
+ ⭐ Currently doing my internship at ACL as a Developer.
 
 ## Skills
 
