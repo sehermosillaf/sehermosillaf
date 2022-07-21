@@ -17,8 +17,7 @@ I-am-sehermosillaf@github
 -------------------------
 💻 Actualmente realizando mi practica profesional en ACL Tecnología como Desarrollador
 🚩 Interesado en el Desarrollo Fullstack
-🎵 Me gusta el rock, lofi, jazz and soft music
-♟️ Ademas juego y estudio ajedrez en mis tiempos libres
+🎵 Rock, lofi, jazz and soft music
 ```
 <hr>
 
