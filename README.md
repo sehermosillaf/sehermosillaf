@@ -7,7 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%Estudiante+Ingenieria+en+Informatica;Siempre%20aprendiendo%20nuevas%20cosas&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://c.tenor.com/vXg8ADbBpDYAAAAd/peepo-peepo-wave.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="280" />
 <br/>
 <hr>
 
