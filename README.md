@@ -10,9 +10,9 @@
 <br/>
 <hr>
 
-```
-I-am-sehermosillaf@github
+*I-am-sehermosillaf@github*
 -------------------------
+```
 💻 Actualmente realizando mi practica profesional en ACL Tecnología como Desarrollador
 🚩 Interesado en el Desarrollo Fullstack
 🎵 Rock, lofi, jazz and soft music
