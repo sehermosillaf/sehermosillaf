@@ -10,7 +10,7 @@
 <br/>
 <hr>
 
-*I-am-sehermosillaf@github*
+*sehermosillaf@github*
 -------------------------
 ```
 💻 Actualmente realizando mi practica profesional en ACL Tecnología como Desarrollador
