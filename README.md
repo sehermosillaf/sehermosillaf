@@ -1,6 +1,5 @@
 <h1 align="center">
  Hola, soy Sebastian Hermosilla!
-  <img src="![image](https://user-images.githubusercontent.com/87145545/180107955-e9fb3f6b-2b26-4fc9-97ec-d7c7ff3546ff.png)" width="30"></h1>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
