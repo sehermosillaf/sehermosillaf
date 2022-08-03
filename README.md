@@ -56,8 +56,8 @@
 </p>
 
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-– Elon Musk
+“Without some level of motivation or desire - without craving a change - we have no reason to act.”
+– JamesClear
 
   </td>
   </tr>
