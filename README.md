@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%Estudiante+Ingenieria+en+Informatica;Siempre%20aprendiendo%20nuevas%20cosas&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
 </p>
 
 <br/>
@@ -15,7 +15,6 @@
 ```
 💻 Actualmente realizando mi practica profesional en ACL Tecnología como Desarrollador
 🚩 Interesado en el Desarrollo Fullstack
-🎵 Rock, lofi, jazz and soft music
 ```
 <hr>
 
