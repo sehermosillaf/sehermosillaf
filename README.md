@@ -1,5 +1,5 @@
 <h1 align="center">
- Hola, soy Sebastian Hermosilla!
+ Hola! Soy Sebastian Hermosilla!
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
