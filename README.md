@@ -24,9 +24,15 @@
 ### 👨‍💻 Lenguajes
 
 <p>
- <img src="https://skillicons.dev/icons?i=js,html,css,angular,ts" />
+</div>
+ <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" />
+ </div>
+ <div>
  <img src="https://skillicons.dev/icons?i=linux,py" />
+ </div>
+ <div>
  <img src="https://skillicons.dev/icons?i=spring,idea,java" />
+ </div>
 
 ### 🧰 Frameworks y Librerias
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
@@ -35,10 +41,10 @@
 
 </p>
 
-### 🗄️ Bases de datos and servicios en la nube
+### 🗄️ Bases de datos
 
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
 </p>
 
 ### 💻 Software y Herramientas
