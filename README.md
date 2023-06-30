@@ -4,7 +4,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=<!--Estudiante-->;&center=true&width=380&height=45"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&width=435&lines=Analista+QA;Automatizador;Siempre+aprendiendo!" alt="Typing SVG" /></a>
 </p>
 
 <br/>
@@ -13,8 +13,8 @@
 *sehermosillaf@github*
 -------------------------
 ```
-💻 Actualmente realizando mi practica profesional en ACL Tecnología como Desarrollador
-🚩 Interesado en el Desarrollo Fullstack
+💻 Actualmente  en ACL Tecnología como Analista QA
+🚩 Interesado en la Automatizacion, DevOps.
 ```
 <hr>
 
@@ -31,20 +31,20 @@
  <img src="https://skillicons.dev/icons?i=linux,py" />
  </div>
  <div>
- <img src="https://skillicons.dev/icons?i=spring,idea,java" />
+ <img src="https://skillicons.dev/icons?i=spring,idea,java,selenium" />
  </div>
 
 ### 🧰 Frameworks y Librerias
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/></a>  
-
+<a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/></a>
+<a href="#"> <img src="https://skillicons.dev/icons?i=maven"/></a>
 </p>
 
 ### 🗄️ Bases de datos
 
 <p>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### 💻 Software y Herramientas
