@@ -9,8 +9,7 @@
 *sehermosillaf@github*
 -------------------------
 ```
-💻 Actualmente  en ACL Tecnología como Analista QA
-🚩 Interesado en la Automatizacion, DevOps.
+💻 Actualmente  en ACL Tecnología
 ```
 <hr>
 
@@ -32,7 +31,6 @@
 
 ### 🧰 Frameworks y Librerias
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/></a>
 <a href="#"> <img src="https://skillicons.dev/icons?i=maven"/></a>
 </p>
