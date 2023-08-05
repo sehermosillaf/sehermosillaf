@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=1000&pause=1000&center=true&repeat=false&width=650&lines=%C2%A1Hola!+Soy+Sebastian+Hermosilla" alt="Typing SVG" /></a>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=1000&pause=500&center=true&width=435&lines=Analista+QA;Automatizador;%C2%A1Siempre+Aprendiendo!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=1000&pause=500&center=true&width=435&lines=Ingeniero en Informatica;Automatizador;%C2%A1Siempre+Aprendiendo!" alt="Typing SVG" /></a>
 
 <br/>
 <hr>
