@@ -51,9 +51,6 @@
 </p>
 
 
-“Without some level of motivation or desire - without craving a change - we have no reason to act.”
-– JamesClear
-
   </td>
   </tr>
 </table>
