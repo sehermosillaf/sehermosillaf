@@ -8,32 +8,23 @@
 
 *sehermosillaf@github*
 -------------------------
-```
-💻 Actualmente  en ACL Tecnología
-```
+💻 Actualmente en ACL Tecnología
 <hr>
-
 
 ## 🛠️ Herramientas que he utilizado
 
 ### 👨‍💻 Lenguajes
 
 <p>
-</div>
  <img src="https://skillicons.dev/icons?i=html,css,angular,js,ts" />
- </div>
- <div>
  <img src="https://skillicons.dev/icons?i=linux,py" />
- </div>
- <div>
  <img src="https://skillicons.dev/icons?i=spring,idea,java,selenium" />
- </div>
+</p>
 
 ### 🧰 Frameworks y Librerias
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/></a>
 <a href="#"> <img src="https://skillicons.dev/icons?i=maven"/></a>
-</p>
 
 ### 🗄️ Bases de datos
 
@@ -50,9 +41,22 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
+## 📈 Estadísticas de GitHub
 
-  </td>
-  </tr>
-</table>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&theme=radical)
 
+## 🚀 Proyectos Destacados
+
+- [Proyecto 1](https://github.com/sehermosillaf/proyecto1): Descripción breve del proyecto.
+- [Proyecto 2](https://github.com/sehermosillaf/proyecto2): Descripción breve del proyecto.
+
+## 📜 Certificaciones y Cursos
+
+- Certificación 1
+- Curso 1
+
+## 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/sehermosillaf)
+- [Correo Electrónico](mailto:sehermosillaf@example.com)
 
