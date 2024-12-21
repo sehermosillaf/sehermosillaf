@@ -29,7 +29,7 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats-eosin-alpha-27.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox)
 
 ## 🚀 Proyectos Destacados
 
