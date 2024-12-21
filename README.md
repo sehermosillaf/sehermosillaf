@@ -33,8 +33,8 @@
 
 ## 🚀 Proyectos Destacados
 
-- [Proyecto 1](https://github.com/sehermosillaf/F1infodash): Dashboard de informacion relacionada a Formula 1.
-- [Proyecto 2](https://github.com/sehermosillaf/Control-de-tareas): Back end de aplicación control de tareas utilizando Spring Framework, Spring Boot, Security, JDBC, DevTools.
+- [F1 Dashboard](https://github.com/sehermosillaf/F1infodash): Dashboard de informacion relacionada a Formula 1.
+- [Backend Spring](https://github.com/sehermosillaf/Control-de-tareas): Proyecto para aprender Back utilizando Spring Framework, Spring Boot, Security, JDBC, DevTools.
 
 
 ## 📫 Contacto
