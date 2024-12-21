@@ -24,7 +24,7 @@
 
 ### 💻 OS
 
-<img src="https://skillicons.dev/icons?i=windows,linux>
+<img src="https://skillicons.dev/icons?i=windows,linux"/>
 
 
 ## 📈 Estadísticas de GitHub
