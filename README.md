@@ -29,7 +29,12 @@
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en" alt="Estadísticas de GitHub" style="max-width: 45%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehermosillaf&" alt="GitHub Streak Stats" style="max-width: 45%;"/>
+</div>
+
+
 
 ## 🚀 Proyectos Destacados
 
