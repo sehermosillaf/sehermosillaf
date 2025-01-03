@@ -26,20 +26,18 @@
 
 <img src="https://skillicons.dev/icons?i=linux,debian"/>
 
-
 ## 📈 Estadísticas de GitHub
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en" alt="Estadísticas de GitHub" style="max-width: 35%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehermosillaf&" alt="GitHub Streak Stats" style="max-width: 35%;"/>
-</div>
-
-
-
-## 🚀 Proyectos Destacados
-
-- [F1 Dashboard](https://github.com/sehermosillaf/F1infodash): Dashboard de informacion relacionada a Formula 1.
-- [Backend Spring](https://github.com/sehermosillaf/Control-de-tareas): Proyecto para aprender Back utilizando Spring Framework, Spring Boot, Security, JDBC, DevTools.
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en" alt="Estadísticas de GitHub"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehermosillaf&" alt="GitHub Streak Stats"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 📫 Contacto
