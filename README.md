@@ -1,8 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&duration=1&pause=1000&color=CDF749&center=true&vCenter=true&repeat=false&width=435&lines=Sebasti%C3%A1n+Hermosilla" alt="Typing SVG" /></a>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=QA+Automation+Tester;Web+Developer;Ux/Ui+Enthusiast" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=1px&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+Soy+Sebastian!;Automatizador+QA;Desarrollador+Web" alt="Typing SVG" />
+</a>
 <br/>
 
 ## 🛠️ Herramientas que he utilizado
@@ -31,17 +29,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en" alt="Estadísticas de GitHub"/>
+      <img src="https://github-readme-stats-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en&theme=gruvbox" alt="Estadísticas de GitHub"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehermosillaf&" alt="GitHub Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehermosillaf&theme=gruvbox" alt="GitHub Streak Stats"/>
     </td>
+   <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehermosillaf&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" />
+   </td>
   </tr>
 </table>
 
-
-## 📫 Contacto
-
-- [LinkedIn](https://www.linkedin.com/in/sebastianhf)
-- [Correo Electrónico](mailto:sehermosillaf@gmail.com)
 
