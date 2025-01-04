@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en" alt="Estadísticas de GitHub"/>
+      <img src="https://github-readme-stats-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en" alt="Estadísticas de GitHub"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehermosillaf&" alt="GitHub Streak Stats"/>
