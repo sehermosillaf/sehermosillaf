@@ -34,10 +34,12 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sehermosillaf&theme=gruvbox" alt="GitHub Streak Stats"/>
     </td>
-   <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehermosillaf&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" />
-   </td>
   </tr>
+ <tr>
+     <td>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehermosillaf&theme=gruvbox&show_icons=true&hide_border=true&card_width=500px"/>
+   </td>
+ </tr>
 </table>
 
 
