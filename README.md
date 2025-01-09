@@ -32,7 +32,7 @@
       <img src="https://github-readme-stats-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en&theme=gruvbox" alt="Estadísticas de GitHub"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=sehermosillaf&theme=gruvbox&locale=es&mode=weekly&hide_total_contributions=true&hide_longest_streak=true)" alt="GitHub Streak Stats"/>
+      <img src="https://streak-stats.demolab.com/?user=sehermosillaf&theme=gruvbox&locale=es&mode=daily&hide_total_contributions=true&hide_longest_streak=true)" alt="GitHub Streak Stats"/>
     </td>
   </tr>
  <tr>
