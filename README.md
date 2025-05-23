@@ -27,7 +27,7 @@
 <table>
  <tr>
   <td>
-   <img src="https://streak-stats.demolab.com?user=sehermosillaf&theme=darcula&date_format=%5BY%20%5DM%20j&mode=daily"/>
+   <img src="https://streak-stats.demolab.com?user=sehermosillaf&theme=darcula&date_format="M j[, Y]"&mode=daily"/>
   </td>
   <td>
    <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
