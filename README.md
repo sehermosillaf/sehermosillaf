@@ -32,6 +32,9 @@
   <td>
    <img src="https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
   </td>
+  <td>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehermosillaf&layout=compact&theme=gruvbox" />
+  </td>
  </tr>
 </table>
 
