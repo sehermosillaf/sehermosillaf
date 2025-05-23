@@ -33,7 +33,7 @@
    <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
   </td>
   <td>
-   <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api/top-langs/?username=sehermosillaf&layout=compact&theme=gruvbox" />
+   <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api/top-langs/?username=sehermosillaf&layout=compact&theme=gruvbox&exclude_repo=github-readme-stats" />
   </td>
  </tr>
 </table>
