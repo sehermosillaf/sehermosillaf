@@ -30,10 +30,10 @@
    <img src="https://streak-stats.demolab.com?user=sehermosillaf&theme=darcula&date_format=%5BY%20%5DM%20j&mode=weekly"/>
   </td>
   <td>
-   <img src="https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
+   <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
   </td>
   <td>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sehermosillaf&layout=compact&theme=gruvbox" />
+   <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api/top-langs/?username=sehermosillaf&layout=compact&theme=gruvbox" />
   </td>
  </tr>
 </table>
