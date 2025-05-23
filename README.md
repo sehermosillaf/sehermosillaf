@@ -34,9 +34,18 @@ Explora las tecnologías y lenguajes con los que construyo y aseguro la calidad 
 ### 📊 Mis Contribuciones en GitHub
 
 Aquí puedes ver un resumen de mi actividad y lenguajes más usados en GitHub:
+<table>
+ <tr>
+  <td>
+   <img src="https://streak-stats.demolab.com?user=sehermosillaf&theme=darcula&date_format=%5BY%20%5DM%20j&mode=weekly"/>
+  </td>
+  <td>
+   <img src="https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
+  </td>
+ </tr>
+</table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sehermosillaf&theme=darcula&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehermosillaf&show_icons=true&theme=dracula)
+
 ---
 
 ### 📫 Conectemos
