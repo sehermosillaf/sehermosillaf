@@ -27,7 +27,7 @@
 <table>
  <tr>
   <td>
-    <img src="https://streak-stats.demolab.com](https://github-readme-streak-stats-eta-smoky.vercel.app/?user=DenverCoder1&theme=gruvbox" />
+    <img src="https://github-streak-stats-mocha.vercel.app/?user=DenverCoder1&theme=gruvbox" />
   </td>
   <td>
    <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
