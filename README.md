@@ -38,10 +38,10 @@ Aquí puedes ver un resumen de mi actividad y lenguajes más usados en GitHub:
 <table>
   <tr>
     <td>
-      <img src="github-readme-stats-cn9epdn4w-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en&theme=gruvbox" alt="Estadísticas de GitHub"/>
+      <img src="https://github-readme-stats-cn9epdn4w-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&locale=en&theme=gruvbox" alt="Estadísticas de GitHub"/>
     </td>
     <td>
-     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-smoky.vercel.app?user=sehermosillaf&theme=gruvbox&border_radius=&locale=en" alt="GitHub Streak" /></a>
+     <a href="https://git.io/streak-stats"><img src="https://github-readme-stats-cn9epdn4w-sebastian-hermosillas-projects.vercel.app?user=sehermosillaf&theme=gruvbox&border_radius=&locale=en" alt="GitHub Streak" /></a>
     </td>
   </tr>
  <tr>
