@@ -24,20 +24,23 @@
 <img src="https://skillicons.dev/icons?i=linux,arch" alt="Linux, Arch" />
 
 ---
-<table>
- <tr>
-  <td>
-    <img src="https://github-streak-stats-mocha.vercel.app/?user=sehermosillaf&theme=gruvbox" />
-  </td>
-  <td>
-   <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox" />
-  </td>
-  <td>
-   <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api/top-langs/?username=sehermosillaf&layout=compact&theme=gruvbox&exclude_repo=github-readme-stats,github-streak-stats,github-readme-streak-stats" />
-  </td>
- </tr>
-</table>
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api?username=sehermosillaf&show_icons=true&theme=gruvbox&card_height=600" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats-xnhj-sebastian-hermosillas-projects.vercel.app/api/top-langs/?username=sehermosillaf&theme=gruvbox&layout=compact&exclude_repo=github-readme-stats,github-streak-stats,github-readme-streak-stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-streak-stats-mocha.vercel.app/?user=sehermosillaf&theme=gruvbox" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
