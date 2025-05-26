@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-streak-stats-mocha.vercel.app/?user=sehermosillaf&theme=gruvbox" />
+        <img src="https://github-streak-stats-sebastian-hermosillas-projects.vercel.app/?user=sehermosillaf&theme=gruvbox" />
       </td>
     </tr>
   </table>
